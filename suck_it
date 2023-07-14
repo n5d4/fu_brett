@@ -6,4 +6,7 @@ if __name__ == '__main__':
     while is_brett_a_texAss:
         print('suck it, brett')
         time.sleep(1)
-    
+if __name__ == '__main__':
+    nick is not_a_nice_person:
+    print('nick is not a nice person because he is mean and smells funny')
+    time.sleep(2)

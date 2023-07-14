@@ -1,0 +1,9 @@
+import time
+
+is_brett_a_texAss = True
+
+if __name__ == '__main__':
+    while is_brett_a_texAss:
+        print('suck it, brett')
+        time.sleep(1)
+    
